@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on the ARPA-E NEXTCAR Project.
+- 🌱 I’m currently improving skills in C++, Python, MATLAB and CUDA projects with keen interest in parallelized workflows.
+- 📫 How to reach me: kibalama.3@osu.edu
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm a die-hard Arsenal FC fan ⚽️
+
 <!--
 **dskibalama/dskibalama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
