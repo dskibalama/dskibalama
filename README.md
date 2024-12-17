@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on the ARPA-E NEXTCAR Project.
 - 🌱 I’m currently improving skills in C++, Python, MATLAB and CUDA projects with keen interest in parallelized workflows.
-- 📫 How to reach me: kibalama.3@osu.edu
+- 📫 How to reach me: kibalamadennis@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a die-hard Arsenal FC fan ⚽️
 
